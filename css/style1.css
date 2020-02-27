@@ -3,6 +3,18 @@
 	padding: 10px;
 	font-family: 'Acme';
 }
+.card a, a:hover{
+  text-decoration: none;
+  color: white;
+}
+footer a{
+  color: black;
+  text-decoration: none;
+}
+footer a:hover{
+  color: blue;
+  text-decoration: none;
+}
 .large-header {
 	position: relative;
 	width: 100%;
