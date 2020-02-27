@@ -300,6 +300,8 @@ figure video {
 #tweet:hover{
   color: #5BB2FE;
 }
-footer{
+footer, footer a, footer a:hover{
   padding-top: 10px;
+  color: white;
+  text-decoration: none;
 }
