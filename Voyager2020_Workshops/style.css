@@ -51,77 +51,6 @@ a:hover{
       transition: 0.3s;
       border: none;
   }
-/* .sub{
-      border: 1.2px;
-      border-style: solid;
-        border-radius: 0%;
-        background-color: inherit 0.8;
-        border-color: transparent;
-        transition: 0.5s;
-  } */
-/* #regi_app.sub:hover{
-    color: black;
-    border-color:#A7C63C;
-    background-color:white;
-    transition: 0.5s;
-    text-shadow:  0 0 5px #A7C63C,
-                  0 0 10px #A7C63C,
-                  0 0 25px #A7C63C,
-                  0 0 35px #A7C63C,
-                  0 0 50px #A7C63C;
-    box-shadow: 0 0 5px  #A7C63C,
-                0 0 10px #A7C63C,
-                0 0 25px #A7C63C;
-  } */
-/* #regi_p5.sub:hover{
-  color: black;
-  border-color: #EB265E;
-  background-color:white;
-  transition: 0.5s;
-  text-shadow:  0 0 5px  #EB265E,
-                0 0 10px #EB265E,
-                0 0 25px #EB265E,
-                0 0 35px #EB265E,
-                0 0 50px #EB265E;
-  box-shadow: 0 0 5px  #EB265E,
-              0 0 10px #EB265E,
-              0 0 25px #EB265E;
-} */
-/* #regi_uk.sub:hover{
-  color: black;
-  border-color: #00979C;
-  background-color:white;
-  transition: 0.5s;
-  text-shadow:  0 0 5px  #00979C,
-                0 0 10px #00979C,
-                0 0 25px #00979C,
-                0 0 35px #00979C;
-  box-shadow: 0 0 5px  #00979C,
-              0 0 10px #00979C,
-              0 0 25px #00979C;
-} */
-
-/* #app-cap.display-4{
-    color: #A7C63C;
-    text-shadow: 0 0 5px black,
-                 0 0 10px #A7C63C,
-                 0 0 20px #A7C63C,
-                 0 0 5px white;
-}
-#p5-cap.display-4{
-    color: white;
-    text-shadow: 0 0 5px white,
-                 0 0 10px #EB265E,
-                 0 0 20px #EB265E,
-                 0 0 40px #EB265E;
-}
-#ard-cap.display-4{
-    color: #00979c;
-    text-shadow: 0 0 5px black,
-                 0 0 10px #00979c,
-                 0 0 20px #00979C,
-                 0 0 5px white;
-} */
 
 .carousel-item{
     height: 100vh;
@@ -152,24 +81,7 @@ a{
     margin-top: 20px;
     background-color: rgba(0,0,0,0.8);
   }
-  /* #det-app.card{
-    box-shadow: 0 0 5px black,
-    0 0 10px #A7C63C,
-    0 0 20px #A7C63C,
-    0 0 5px white;
-  }
-  #det-ard{
-    box-shadow: 0 0 5px black,
-    0 0 10px #00979c,
-    0 0 20px #00979C,
-    0 0 5px white;
-  }
-  #det-p5{
-    box-shadow:  0 0 5px white,
-    0 0 10px #EB265E,
-    0 0 20px #EB265E,
-    0 0 40px #EB265E;
-  } */
+
 @media only screen and (max-width: 768px) {
     /* For mobile phones: */
     [class*="col-"] {
@@ -184,4 +96,9 @@ a{
   #p5-cap.display-4{
     font-size: 25px;
   }
+}
+
+.carousel-item img{
+  height: 100vh;
+  width: 100%;
 }
