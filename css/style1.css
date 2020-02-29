@@ -264,6 +264,10 @@ footer a:hover{
             transition-duration: 0s;
   }
 }
+footer a:hover{
+  text-decoration: none;
+  color: grey;
+}
 
 #fbook:hover{
   color: #2850D5;
