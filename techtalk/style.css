@@ -193,6 +193,7 @@ p.quote:nth-child(2){
   opacity: 1;
   z-index: 500;
 }
+/*
 .jobs{
   background: #fff url(https://raw.githubusercontent.com/hemantparashar/images/quote-cards/stevejobs-s.jpg);
 }
@@ -201,7 +202,7 @@ p.quote:nth-child(2){
 }
 .musk{
   background: #fff url(https://raw.githubusercontent.com/hemantparashar/images/quote-cards/elonmusk-s.jpg);
-}
+}*/
 
 #bg{
   width: 100%;
@@ -224,20 +225,20 @@ p.quote:nth-child(2){
   opacity: 1;
 }
 .jobs-bg{
-  background: #fff url(https://raw.githubusercontent.com/hemantparashar/images/quote-cards/stevejobs-bg.jpg);
-  background-size: cover;
+  /*background: #fff url(https://raw.githubusercontent.com/hemantparashar/images/quote-cards/stevejobs-bg.jpg);
+  */background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
 }
 .zuck-bg{
-  background: #fff url(https://raw.githubusercontent.com/hemantparashar/images/quote-cards/markzuck-bg.jpg);
-  background-size: cover;
+  /*background: #fff url(https://raw.githubusercontent.com/hemantparashar/images/quote-cards/markzuck-bg.jpg);
+  */background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
 }
 .musk-bg{
-  background: #fff url(https://raw.githubusercontent.com/hemantparashar/images/quote-cards/elonmusk-bg.jpg);
-  background-size: cover;
+  /*background: #fff url(https://raw.githubusercontent.com/hemantparashar/images/quote-cards/elonmusk-bg.jpg);
+  */background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
 }
