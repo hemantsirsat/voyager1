@@ -10,6 +10,7 @@ header{
 figcaption{
   font-size: 40px;
   padding: 50px;
+  text-align: center;
 }
 a{
   color: white;
